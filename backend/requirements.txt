@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+
+# uploads (multipart/form-data)
+python-multipart
+
+# config / env handling (optional but common)
+python-dotenv
